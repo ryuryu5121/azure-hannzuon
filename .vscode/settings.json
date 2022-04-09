@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/8c38f49e-5735-4ac8-beba-2447fc820221/resourceGroups/azure-mannual-4-9_group/providers/Microsoft.Web/sites/azure-mannual-4-9",
+    "appService.deploySubpath": "."
+}
